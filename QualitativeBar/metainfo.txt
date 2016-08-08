@@ -1,6 +1,6 @@
 Name of Quantlet: QuanlitativeBar
 
-Published in: MUST NOT BE EMPTY!
+Published in: Statistical Programming Langugae Course (SS16)
 
 Description: 'Plots Bar Plots of qualitative variables in the 
 german credit score data set. Limits on the y-axis are set between 
@@ -13,6 +13,6 @@ Author: Yousuf Hasan Siddiqui
 
 Submitted:  Tue, June 28 2016 by Yousuf Hasan Siddiqui
 
-Datafile: for your data sets - delete if not used
+Datafile: german.data
 
 Example: Two pots of PDF of bar plots
