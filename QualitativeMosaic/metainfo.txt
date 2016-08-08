@@ -1,21 +1,17 @@
 Name of Quantlet: QualitativeMosaic
 
-Published in: MUST NOT BE EMPTY!
+Published in: Statistical Programming Language Course (SS-16)
 
 Description: Mosaic Plots
 
-Keywords: MUST NOT BE EMPTY!
+Keywords: mosiac plots, continous variables, descriptive statistics
 
 See also: for listing related, similar Quantlets or Github code from your point of view - delete if not used
 
-Author: SHOULD NOT BE EMPTY
+Author: Orhan Ipek
 
-Submitted:  SHOULD NOT BE EMPTY
+Submitted:  08.08.2016
 
-Datafile: for your data sets - delete if not used
+Datafile: german.data
 
-Input: (optional - delete if not used)
 
-Output:  (optional - delete if not used)
-
-Example: for your plots, graphs, results etc. - delete if not used
